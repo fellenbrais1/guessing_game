@@ -94,8 +94,8 @@ fn main() {
     }
     
     // DEBUG
-    println!("");
-    println!("The secret number is {}!", secret_answer);
+    // println!("");
+    // println!("The secret number is {}!", secret_answer);
 
     println!("");
     println!("I am thinking of a number between {} and {}, can you guess it?", LOW, HIGH);
